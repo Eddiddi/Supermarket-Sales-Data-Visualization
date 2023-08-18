@@ -46,12 +46,13 @@ To get started with the Supermarket Sales Excel Dashboard project, follow these 
 
 ### Contributing and Feedback
 If you'd like to contribute to this project or provide feedback, feel free to create pull requests or raise issues in this repository. Your input is valuable in improving and enhancing the dashboard for the benefit of all users.
-Thank you for being a part of the Supermarket Sales Excel Dashboard project. We hope this tool assists you in gaining valuable insights into supermarket sales and customer behavior.
+Thank you for being a part of the Supermarket Sales Excel Dashboard project. I hope this tool assists you in gaining valuable insights into supermarket sales and customer behavior.
 
 Happy analyzing!
 
 Edidiong Uko
-[Connect on LinkedIn](https://www.linkedin.com/in/edidiong-uko-18659a244/)
+[Connect on LinkedIn](https://www.linkedin.com/in/edidiong-uko-18659a244/) <br />
 
+<br />
 
-
+**Disclaimer:** Please note that this project is intended for educational and informational purposes only. The data used is sourced from open-source repositories, and any resemblance to real entities is purely coincidental.
