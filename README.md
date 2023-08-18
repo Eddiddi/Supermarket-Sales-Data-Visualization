@@ -50,7 +50,7 @@ Thank you for being a part of the Supermarket Sales Excel Dashboard project. I h
 
 Happy analyzing!
 
-Edidiong Uko
+Edidiong Uko <br />
 [Connect on LinkedIn](https://www.linkedin.com/in/edidiong-uko-18659a244/) <br />
 
 <br />
