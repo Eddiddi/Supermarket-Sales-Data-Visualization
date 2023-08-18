@@ -2,7 +2,7 @@
 Welcome to the Supermarket Sales Excel Dashboard project! In this project, I have created an interactive and informative dashboard using open-source data from Kaggle. The dataset contains valuable insights into supermarket sales, customer behavior, and product performance. This readme will guide you through the project, helping you understand the goals, tools, and steps involved.
 
 ### Project Overview
-The primary goal of this project is to visualize and analyze supermarket sales data in an easily digestible format. The Excel dashboard provides a comprehensive view of various aspects, including:
+The primary goal of this project is to visualize and analyze supermarket sales data in an easily digestible format. The Excel dashboard provides a comprehensive view of various aspects, including: <br />
 **Sales Performance:** Monitor overall sales trends, identify peak selling periods, and compare sales across different product categories.
 **Customer Insights:** Explore customer demographics, purchasing behavior, and loyalty patterns to better understand your target audience.
 **Product Analysis:** Analyze product performance, identify top-selling items, and track inventory levels.
